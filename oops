@@ -1,5 +1,5 @@
 class simple():
-  msg = 'Arshad'
+  msg1 = 'Arshad'
   def msg(self):
     print('Hi')
 m = simple()
