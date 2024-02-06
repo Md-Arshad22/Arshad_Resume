@@ -4,5 +4,5 @@ class simple():
     print('Hi')
 m = simple()
 m.msg()
-print(m.msg)
+print(m.msg1)
 
