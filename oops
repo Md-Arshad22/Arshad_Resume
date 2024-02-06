@@ -1,1 +1,6 @@
+class simple():
+  def msg(self):
+    print('Hi')
+m = simple()
+m.msg()
 
