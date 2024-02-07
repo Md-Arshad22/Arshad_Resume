@@ -51,8 +51,10 @@ class car:
 class Fourwheeler(jeep,car):
   def travel(self):
     print('Enjoy Life')
-
-
+Four = Fourwheeler()
+Four.stylish()
+Four.luxery()
+Four.travel()
 
 
 
