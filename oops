@@ -8,5 +8,7 @@ print(m.msg1)
 
 class cars():
   name = ""
+  comp = ""
+m = cars()
 
 
