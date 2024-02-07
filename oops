@@ -31,7 +31,7 @@ print(n..name,n.place)
 class bird:
   def speak(self):
     print('Melody')
-
+class parrot(bird):
     
 
 
