@@ -36,6 +36,7 @@ class parrot(bird):
     print('Sing A Song')
 b = parrot()
 b.speak()
+b.sing()
 
     
 
