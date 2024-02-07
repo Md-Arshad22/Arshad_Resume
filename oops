@@ -34,6 +34,8 @@ class bird:
 class parrot(bird):
   def sing(self):
     print('Sing A Song')
+b = parrot()
+b.speak()
 
     
 
