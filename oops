@@ -10,5 +10,7 @@ class cars():
   name = ""
   comp = ""
 m = cars()
-
+m.name = 'Innova'
+m.comp = 'TOYOTA'
+print(n.name)
 
