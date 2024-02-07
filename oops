@@ -40,6 +40,7 @@ b = parrot()
 b.speak()
 b.sing()
 
+# ///////////// MULTIPLE //////////
 
 class jeep:
   def stylish(self):
