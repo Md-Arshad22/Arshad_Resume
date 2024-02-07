@@ -28,6 +28,8 @@ s.name = 'Arshad'
 s.place = 'IB Tandur'
 print(n..name,n.place)
 
+# ///////////// SINGLE INHERITANCE //////////
+
 class bird:
   def speak(self):
     print('Melody')
