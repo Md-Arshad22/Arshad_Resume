@@ -27,3 +27,23 @@ s = simple()
 s.name = 'Arshad'
 s.place = 'IB Tandur'
 print(n..name,n.place)
+
+class bird:
+  def speak(self):
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
