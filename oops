@@ -64,6 +64,9 @@ class nokia:
 class lumia(nokia):
   def gallary(self):
     print('Photo')
+class nokia14(lumia):
+  def screen(self):
+    print('Filter Image')
 
 
 
