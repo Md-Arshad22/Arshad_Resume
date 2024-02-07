@@ -12,5 +12,5 @@ class cars():
 m = cars()
 m.name = 'Innova'
 m.comp = 'TOYOTA'
-print(n.name)
+print(n.name,n.comp)
 
