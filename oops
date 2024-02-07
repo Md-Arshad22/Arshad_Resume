@@ -14,3 +14,9 @@ m.name = 'Innova'
 m.comp = 'TOYOTA'
 print(n.name,n.comp)
 
+
+class simple():
+  def __init__(self,name):
+    print(name)
+s = simple('Arshad')
+
