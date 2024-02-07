@@ -32,6 +32,9 @@ class bird:
   def speak(self):
     print('Melody')
 class parrot(bird):
+  def sing(self):
+    print('Sing A Song')
+
     
 
 
