@@ -47,6 +47,9 @@ class jeep:
 class car:
   def luxery(self):
     print('Small Family')
+class Fourwheeler(jeep,car):
+  def travel(self):
+    print('Enjoy Life')
 
 
 
