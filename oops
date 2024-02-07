@@ -21,6 +21,9 @@ class simple():
 s = simple('Arshad')
 
 class simple():
-  def __init__(self,name):
-    print(name)
-s = simple('Arshad')
+  def __init__(self,name,place):
+    print(name,place)
+s = simple()
+s.name = 'Arshad'
+s.place = 'IB Tandur'
+print(n..name,n.place)
