@@ -7,6 +7,6 @@ m.msg()
 print(m.msg1)
 
 class cars():
-  
+  name = ""
 
 
