@@ -44,7 +44,9 @@ b.sing()
 class jeep:
   def stylish(self):
     print('More Journey')
-
+class car:
+  def luxery(self):
+    
 
 
 
