@@ -20,3 +20,7 @@ class simple():
     print(name)
 s = simple('Arshad')
 
+class simple():
+  def __init__(self,name):
+    print(name)
+s = simple('Arshad')
