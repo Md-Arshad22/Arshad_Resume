@@ -67,6 +67,11 @@ class lumia(nokia):
 class nokia14(lumia):
   def screen(self):
     print('Filter Image')
+s = nokia()
+s.button()
+s.gallary()
+s.screen()
+
 
 
 
