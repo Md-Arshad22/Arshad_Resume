@@ -5,9 +5,15 @@
 <h2>JS Objects </h2>
 <p id="demo"></p>
 <script>
-const car = {type:"Fiat", model:"500", color:"White"};
-document.getElementById('demo').innerHTML=innerHTML= "The Car Type is "+ car.type;
+//const car = {type:"Fiat", model:"500", color:"White"};
+//document.getElementById('demo').innerHTML= "The Car Type is "+ car.type;
+
+ const person = {firstname:"Arshad", age:23, eyeColor:"blue"} ;
+document.getElementById('demo').innerHTML = person.Firstname + "is"+ person.age + "years old.";
+
 </script>
+
+
 </body>
 </html>
 
