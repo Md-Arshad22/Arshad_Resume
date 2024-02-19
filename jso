@@ -3,5 +3,9 @@
 <body>
 
 <h2>JS Objects </h2>
+<script>
+const car = {type:"Fiat", model:"500", color:"White"};
 
+
+</script>
 
