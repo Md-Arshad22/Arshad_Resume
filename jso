@@ -4,19 +4,22 @@
 
 <h2>JS Objects </h2>
 <p id="demo"></p>
-<script>
-//const car = {type:"Fiat", model:"500", color:"White"};
-//document.getElementById('demo').innerHTML= "The Car Type is "+ car.type;
+// <script>
+// const car = {type:"Fiat", model:"500", color:"White"};
+// document.getElementById('demo').innerHTML= "The Car Type is "+ car.type;
 
-//const person = {firstname:"Arshad", age:23, eyeColor:"blue"} ;
-const person = {
-firstname:"Arshad", 
-age:23, 
-eyeColor:"blue"
-};
-document.getElementById('demo').innerHTML = person.Firstname + "is"+ person.age + "years old.";
+// const person = {firstname:"Arshad", age:23, eyeColor:"blue"} ;
+// const person = {
+// firstname:"Shaik", 
+// lastname:"Arshad",
+// age:23, 
+// eyeColor:"blue"
+// };
+// document.getElementById('demo').innerHTML = person.Firstname + "is"+ person.age + "years old.";
+document.getElementById('demo').innerHTML = person.Firstname + " " + "lastname";
 
-</script>
+// </script>
+
 
 
 </body>
