@@ -6,7 +6,7 @@
 <p id="demo"></p>
 <script>
 const car = {type:"Fiat", model:"500", color:"White"};
-document.getElementById('demo').innerHTML=
+document.getElementById('demo').innerHTML=innerHTML= "The Car Type is "+ car.type;
 
 
 </script>
