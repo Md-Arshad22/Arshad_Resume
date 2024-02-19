@@ -3,8 +3,10 @@
 <body>
 
 <h2>JS Objects </h2>
+<p id="demo"></p>
 <script>
 const car = {type:"Fiat", model:"500", color:"White"};
+document.getElementById('demo').innerHTML=
 
 
 </script>
