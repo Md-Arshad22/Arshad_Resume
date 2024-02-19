@@ -16,7 +16,8 @@
 // eyeColor:"blue"
 // };
 // document.getElementById('demo').innerHTML = person.Firstname + "is"+ person.age + "years old.";
-document.getElementById('demo').innerHTML = person.Firstname + " " + "lastname";
+// document.getElementById('demo').innerHTML = person.Firstname + " " + "lastname";
+document.getElementById('demo').innerHTML = person["firstname"] + " " + person["lastname"];
 
 // </script>
 
