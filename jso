@@ -22,7 +22,6 @@ document.getElementById('demo').innerHTML = person["firstname"] + " " + person["
 // </script>
 
 
-
 </body>
 </html>
 
