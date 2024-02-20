@@ -22,6 +22,11 @@ document.getElementById('demo').innerHTML = person["firstname"] + " " + person["
 // </script>
 
 
+<script>
+const person = {
+fname:"John",
+lname:"Cena",
+</script>
 </body>
 </html>
 
