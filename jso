@@ -32,7 +32,9 @@ let txt = "";
 for (let x in person) {
   txt += person[x] + "";
 }
-document.getElementById("demo").innerHTML = txt;
+person.nationality = "English";
+//document.getElementById("demo").innerHTML = txt;
+document.getElementById('deno').innerHTML= person.firstname + "is"+ person.nationality +".";
 </script>
 </body>
 </html>
