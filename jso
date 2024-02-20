@@ -28,6 +28,10 @@ fname:"John",
 lname:"Cena",
 age:25 
 };
+let txt = "";
+for (let x in person) {
+
+}
 </script>
 </body>
 </html>
