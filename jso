@@ -26,6 +26,8 @@ document.getElementById('demo').innerHTML = person["firstname"] + " " + person["
 const person = {
 fname:"John",
 lname:"Cena",
+age:25 
+};
 </script>
 </body>
 </html>
