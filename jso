@@ -60,7 +60,7 @@ car2 : "BMW",
 car3 : "Fiat"
 }
 }
-document.getElementBy
+document.getElementById("demo").innerHTML = myObj.cars.car2;
 </script>
 </body>
 </html>
