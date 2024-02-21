@@ -21,7 +21,7 @@ document.getElementById('demo').innerHTML = person["firstname"] + " " + person["
 
 // </script>
 
-
+//////////////     OBJECTS WITH FUNCTIONS //////////////
 <script>
 const person = {
 fname:"John",
@@ -35,6 +35,13 @@ for (let x in person) {
 person.nationality = "English";
 //document.getElementById("demo").innerHTML = txt;
 document.getElementById('deno').innerHTML= person.firstname + "is"+ person.nationality +".";
+</script
+
+<script>
+const person = {
+firstname : " john",
+lastname : "cena",
+age : 50,
 </script>
 </body>
 </html>
