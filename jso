@@ -42,6 +42,9 @@ const person = {
 firstname : " john",
 lastname : "cena",
 age : 50,
+eyecolor : "blue"
+};
+
 </script>
 </body>
 </html>
