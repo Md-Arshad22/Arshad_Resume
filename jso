@@ -47,7 +47,6 @@ eyecolor : "blue"
 //delete person.age;
 delete person["age"];
 document.getElementById("demo").innerHTML = person.firstname + "is" + person.age + "years old.";
-
 </script>
 </body>
 </html>
