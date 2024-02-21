@@ -48,6 +48,20 @@ eyecolor : "blue"
 delete person["age"];
 document.getElementById("demo").innerHTML = person.firstname + "is" + person.age + "years old.";
 </script>
+
+
+<script>
+const myObj = {
+name : "Arshad",
+age :30,
+cars : {
+car1 : "Ford",
+car2 : "BMW",
+car3 : "Fiat"
+}
+}
+document.getElementBy
+</script>
 </body>
 </html>
 
