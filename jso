@@ -61,7 +61,9 @@ car3 : "Fiat"
 }
 }
 //document.getElementById("demo").innerHTML = myObj.cars.car2;
-document.getElementById("demo").innerHTML = myObj.cars["car2"];
+//document.getElementById("demo").innerHTML = myObj.cars["car2"];
+document.getElementById("demo").innerHTML = myObj["cars"]["car2"];
+
 
 </script>
 </body>
